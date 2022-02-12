@@ -1,0 +1,9 @@
+export const ENVS = {
+  // Polygon Mainnet
+  CONTRACT_ADDRESS: "0xED0462f7fFb35FB50223E2E20de0431bE0Cc0Fb1",
+  CHAIN_ID: "0x89",
+
+  // Mumbai Testnet
+  // CONTRACT_ADDRESS: "0x01c02aEA5b701362fa3449Ca8c8053D1A4873978",
+  // CHAIN_ID: "0x13881",
+}
